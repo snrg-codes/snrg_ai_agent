@@ -1,0 +1,63 @@
+{
+    "name": "Synergy Hub Academy",
+    "type": "texnikum",
+    "admission_requirements": {
+      "required_education": "11-sinfni tugatgan bo'lishi kerak",
+      "admission_age": "yakuniy sinfni tugatgan yoshlarga mo'ljallangan"
+    },
+    "study_programs": [
+      {
+        "name": "Web dasturlash",
+        "description": "Veb ilovalar yaratish, frontend va backend texnologiyalarni o'rganish"
+      },
+      {
+        "name": "Axborot xavfsizligi",
+        "description": "Tizimlar va ma'lumotlarni himoya qilish, xavfsizlik protokollari"
+      },
+      {
+        "name": "Kompyuter injinering",
+        "description": "Kompyuter qurilmalari, tizimli muhandislik va texnik xizmat ko'rsatish"
+      }
+    ],
+    "study_duration_years": 2,
+    "tuition": {
+      "annual_fee": 6500000,
+      "currency": "UZS",
+      "payment_method": "faqat bank orqali"
+    },
+    "teachers": {
+      "experience_years": "3+",
+      "field": "professional dasturlash",
+      "note": "O'qituvchilar sohada amaliy tajribaga ega"
+    },
+    "uniform_policy": {
+      "required": false,
+      "note": "Faqat tartibli va odobli kiyinish talab etiladi"
+    },
+    "graduation_benefits": {
+      "university_admission": {
+        "eligible_programs": [
+          "Web dasturlash bilan bog'liq oliy ta'lim yo'nalishlari",
+          "Axborot xavfsizligi yo'nalishlari",
+          "Kompyuter injinering sohalari"
+        ],
+        "admission_level": "3-kurs",
+        "exam_requirement": "imtihonsiz"
+      },
+      "diplomas": {
+        "total": 2,
+        "countries": [
+          "O'zbekiston",
+          "Rossiya"
+        ],
+        "condition": "barcha fanlar yaxshi baholarga bitirilgan bo'lishi kerak"
+      }
+    },
+    "additional_info": {
+      "location": "Marsda, To'p ko'chadan burilganda 1-uy",
+      "contact": "+998882775001",
+      "website": "https://synergyeducation.uz/synergyhub_namangan",
+      "accommodation": "Ko'rsatilmagan"
+    }
+  }
+  
