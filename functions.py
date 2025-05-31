@@ -14,7 +14,7 @@ class Generate:
         self.model = "gemini-2.0-flash-lite"
         self.json_file = json_file
         with open(self.json_file, 'r', encoding='utf-8') as f:
-            self.datadata = f.read()
+            self.data = f.read()
     
         self.generate_content_config = types.GenerateContentConfig(
             response_mime_type="text/plain",
@@ -44,8 +44,6 @@ class Generate:
         return javob.text
 
 if __name__ == "__main__":  
-
-    
 
     namdu = Generate(GEMINI_API_TOKEN, "namdu.json")
     savol = "Kimyoni o'rganib qaysi yo'nalishga kirsam bo'ladi"
