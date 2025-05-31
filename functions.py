@@ -6,12 +6,15 @@ from google.genai import types
 from config import GEMINI_API_TOKEN                 
 
 class Generate:
-    def __init__(self, GEMINI_API_TOKEN, data):
+    def __init__(self, GEMINI_API_TOKEN, json_file):
+
         self.client = genai.Client(
             api_key=GEMINI_API_TOKEN,
         )
         self.model = "gemini-2.0-flash-lite"
-        self.data = data
+        self.json_file = json_file
+        with open(self.json_file, 'r', encoding='utf-8') as f:
+            self.datadata = f.read()
     
         self.generate_content_config = types.GenerateContentConfig(
             response_mime_type="text/plain",
@@ -41,11 +44,10 @@ class Generate:
         return javob.text
 
 if __name__ == "__main__":  
-     
-    with open("namdu.json", 'r', encoding='utf-8') as f:
-        data = f.read()
 
-    namdu = Generate(GEMINI_API_TOKEN, data)
+    
+
+    namdu = Generate(GEMINI_API_TOKEN, "namdu.json")
     savol = "Kimyoni o'rganib qaysi yo'nalishga kirsam bo'ladi"
     javob = namdu.generate(savol)
     print(javob)
