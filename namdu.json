@@ -1,0 +1,325 @@
+{
+    "universitetHaqida": {
+      "toliqNomi": "Namangan davlat universiteti",
+      "qisqachaMalumot": "Namangan davlat universiteti O'zbekiston Respublikasining Farg'ona vodiysidagi yirik oliy ta'lim muassasalaridan biri bo'lib, turli sohalarda malakali kadrlar tayyorlaydi. Universitet boy tarixga ega va doimiy ravishda rivojlanib bormoqda.",
+      "boshqaOTMlardanFarqi": "Aniq ma'lumot topilmadi. Odatda farqlar o'quv dasturlari, ilmiy salohiyat, xalqaro aloqalar va moddiy-texnik bazada bo'lishi mumkin.",
+      "rasmiySahifalar": [
+        {"tur": "Veb-sayt", "url": "https://www.namdu.uz"},
+        {"tur": "Telegram", "url": "https://t.me/namdu399"}
+      ],
+      "boglanishUchun": {
+        "telefon": "+998 69 228 85 28, +998 69 228 80 49 (Qabul komissiyasi uchun o'zgarishi mumkin)",
+        "email": "info@namdu.uz, namduqs@edu.uz"
+      },
+      "joylashuvManzili": {
+        "manzil": "O'zbekiston Respublikasi, Namangan shahri, Boburshoh ko'chasi, 16-uy (Asosiy bino manzili o'zgarishi mumkin, bir nechta korpuslari mavjud. Aniq manzilni rasmiy saytdan tekshiring)",
+        "kordinata": {
+          "kenglik": "40.9995",
+          "uzunlik": "71.6335"
+        }
+      },
+      "qoshimchaImtiyozlar": "Aniq ma'lumotlar mavjud emas. Odatda nogironligi bo'lgan shaxslar, harbiy xizmatni o'taganlar uchun imtiyozlar bo'lishi mumkin. Batafsil ma'lumotni qabul komissiyasidan olish mumkin."
+    },
+    "oquvJarayoni": {
+      "oquvBosqichlari": [
+        "Bakalavriat",
+        "Magistratura",
+        "Doktorantura (PhD, DSc)"
+      ],
+      "oquvMuddati": {
+        "bakalavriat": "Odatda 4 yil (yo'nalishga qarab o'zgarishi mumkin)",
+        "magistratura": "Odatda 2 yil (yo'nalishga qarab o'zgarishi mumkin)",
+        "doktorantura": "Odatda 3-4 yil"
+      },
+      "oquvchilarSoni": "Aniq joriy ma'lumot topilmadi (Odatda 15,000 dan ortiq bo'lishi mumkin, rasmiy statistikani universitetdan olish kerak).",
+      "onlaynOfflaynYo'nalishlar": {
+        "kunduzgi": true,
+        "sirtqi": true,
+        "kechki": "Ba'zi yo'nalishlarda mavjud bo'lishi mumkin",
+        "masofaviy": "Aniq ma'lumot topilmadi, rasmiy saytni tekshiring"
+      },
+      "fakultetlarVaKafedralar": [
+        {
+          "fakultetNomi": "Fizika-matematika fakulteti",
+          "kafedralar": [
+            "Matematika",
+            "Amaliy matematika va informatika",
+            "Fizika",
+            "Astronomiya va fizika o‘qitish metodikasi"
+          ]
+        },
+        {
+          "fakultetNomi": "Tabiiy fanlar fakulteti",
+          "kafedralar": [
+            "Kimyo",
+            "Biologiya",
+            "Ekologiya va geografiya",
+            "Tuproqshunoslik"
+          ]
+        },
+        {
+          "fakultetNomi": "Filologiya fakulteti",
+          "kafedralar": [
+            "O‘zbek tili va adabiyoti",
+            "Rus tili va adabiyoti",
+            "Ingliz tili va adabiyoti",
+            "Nemis va fransuz tillari"
+          ]
+        },
+        {
+          "fakultetNomi": "Tarix fakulteti",
+          "kafedralar": [
+            "O‘zbekiston tarixi",
+            "Jahon tarixi",
+            "Arxeologiya",
+            "Falsafa va milliy g‘oya"
+          ]
+        },
+        {
+          "fakultetNomi": "Pedagogika va psixologiya fakulteti",
+          "kafedralar": [
+            "Pedagogika va psixologiya",
+            "Maktabgacha ta’lim",
+            "Boshlang‘ich ta’lim metodikasi",
+            "Maxsus pedagogika"
+          ]
+        },
+        {
+          "fakultetNomi": "Jismoniy madaniyat fakulteti",
+          "kafedralar": [
+            "Jismoniy tarbiya nazariyasi va metodikasi",
+            "Sport o‘yinlari",
+            "Yengil atletika va suzish"
+          ]
+        },
+        {
+          "fakultetNomi": "Iqtisodiyot fakulteti",
+          "kafedralar": [
+            "Iqtisodiyot nazariyasi",
+            "Moliya va kredit",
+            "Buxgalteriya hisobi va audit",
+            "Menejment va marketing"
+          ]
+        }
+      ],
+    
+      "o'qituvchilarKontingenti": {
+        "umumiySoni": "Aniq ma'lumot topilmadi",
+        "fanDoktorlariProfessorlar": "Aniq ma'lumot topilmadi",
+        "fanNomzodlariPhD": "Aniq ma'lumot topilmadi",
+        "akademiklar": "Aniq ma'lumot topilmadi",
+        "nisbati": "Aniq ma'lumot topilmadi. Bu ma'lumotlar odatda universitetning yillik hisobotlarida yoki akkreditatsiya hujjatlarida bo'ladi."
+      }
+    },
+    "qabulJarayoni": {
+      "qabulMuddati": "Odatda iyun-iyul oylari (O'zbekiston Respublikasi Oliy ta'lim, fan va innovatsiyalar vazirligi tomonidan belgilanadi). Aniq sanalarni my.uzbmb.uz yoki my.gov.uz saytlaridan tekshiring.",
+      "2024yilAbiturientQabulSoni": {
+        "umumiy": "Har yili tasdiqlanadigan kvotaga bog'liq. Rasmiy e'lonlarni kuting.",
+        "davlatGranti": "Har bir yo'nalish uchun alohida belgilanadi.",
+        "tolovShartnoma": "Har bir yo'nalish uchun alohida belgilanadi."
+      },
+      "kontraktTolovi": "Har bir yo'nalish uchun alohida belgilanadi va har yili o'zgarishi mumkin. Eng kam ish haqiga nisbatan belgilanadi. Aniq summani universitet saytidan yoki qabul komissiyasidan bilib olish mumkin.",
+      "yo'nalishlarKesimidaKirishBallari": {
+        "izoh": "Kirish ballari har yili qabul natijalariga ko'ra o'zgaradi va Bilim va malakalarni baholash agentligi (uzbmb.uz) rasmiy saytida e'lon qilinadi. Quyidagilar 2024 yil uchun namunaviy ma'lumotlar bo'lib, aniq va to'liq ma'lumotlarni rasmiy manbalardan tekshirishingiz zarur.",
+        "2024_namuna": [
+            {
+                "universitet_nomi": "Namangan Davlat Universiteti",
+                "yil": 2024,
+                "talim_shakli": "kunduzgi",
+                "talim_tili": "O'zbek",
+                "yonalishlar": [
+                  {
+                    "yonalish_nomi": "Amaliy matematika",
+                    "shifr": "60540200",
+                    "fanlar": "Matematika (3.1) / Fizika (2.1)",
+                    "grand_ball": 132.2,
+                    "kontrakt_ball": 106.0
+                  },
+                  {
+                    "yonalish_nomi": "Axborot tizimlari va texnologiyalari",
+                    "shifr": "60610100",
+                    "fanlar": "Matematika (3.1) / Fizika (2.1)",
+                    "grand_ball": 106.0,
+                    "kontrakt_ball": 82.7
+                  },
+                  {
+                    "yonalish_nomi": "Bank ishi",
+                    "shifr": "60410600",
+                    "fanlar": "Matematika (3.1) / Chet tili (2.1)",
+                    "grand_ball": 145.9,
+                    "kontrakt_ball": 96.8
+                  },
+                  {
+                    "yonalish_nomi": "Biologiya",
+                    "shifr": "60510100",
+                    "fanlar": "Biologiya (3.1) / Kimyo (2.1)",
+                    "grand_ball": 138.4,
+                    "kontrakt_ball": 131.9
+                  },
+                  {
+                    "yonalish_nomi": "Biotexnologiya",
+                    "shifr": "60710200",
+                    "fanlar": "Biologiya (3.1) / Kimyo (2.1)",
+                    "grand_ball": 125.6,
+                    "kontrakt_ball": 120.1
+                  },
+                  {
+                    "yonalish_nomi": "Buxgalteriya hisobi",
+                    "shifr": "60410200",
+                    "fanlar": "Matematika (3.1) / Chet tili (2.1)",
+                    "grand_ball": 149.7,
+                    "kontrakt_ball": 76.0
+                  },
+                  {
+                    "yonalish_nomi": "Davolash ishi",
+                    "shifr": "60910200",
+                    "fanlar": "Biologiya (3.1) / Kimyo (2.1)",
+                    "grand_ball": 162.6,
+                    "kontrakt_ball": 145.7
+                  },
+                  {
+                    "yonalish_nomi": "Davolash ishi-Namangan shahri",
+                    "shifr": "6091020038",
+                    "fanlar": "Biologiya (3.1) / Kimyo (2.1)",
+                    "grand_ball": 161.6,
+                    "kontrakt_ball": null
+                  },
+                  {
+                    "yonalish_nomi": "Ekologiya va atrof-muhit muhofazasi",
+                    "shifr": "60520200",
+                    "fanlar": "Kimyo (3.1) / Biologiya (2.1)",
+                    "grand_ball": 91.2,
+                    "kontrakt_ball": 83.2
+                  },
+                  {
+                    "yonalish_nomi": "Filologiya va tillarni oʻqitish: ingliz tili",
+                    "shifr": "60230107",
+                    "fanlar": "Ingliz tili (3.1) / Ona tili va adabiyoti (2.1)",
+                    "grand_ball": 180.4,
+                    "kontrakt_ball": 169.7
+                  },
+                  {
+                    "yonalish_nomi": "Filologiya va tillarni oʻqitish: oʻzbek tili",
+                    "shifr": "60230114",
+                    "fanlar": "O‘zbek tili va adabiyoti (3.1) / Chet tili (2.1)",
+                    "grand_ball": 165.4,
+                    "kontrakt_ball": 125.0
+                  },
+                  {
+                    "yonalish_nomi": "Fizika",
+                    "shifr": "60530500",
+                    "fanlar": "Fizika (3.1) / Matematika (2.1)",
+                    "grand_ball": 89.7,
+                    "kontrakt_ball": 68.8
+                  },
+                  {
+                    "yonalish_nomi": "Geografiya",
+                    "shifr": "60530200",
+                    "fanlar": "Geografiya (3.1) / Matematika (2.1)",
+                    "grand_ball": 84.0,
+                    "kontrakt_ball": 63.0
+                  },
+                  {
+                    "yonalish_nomi": "Iqtisodiyot",
+                    "shifr": "60410100",
+                    "fanlar": "Matematika (3.1) / Chet tili (2.1)",
+                    "grand_ball": 157.8,
+                    "kontrakt_ball": 123.1
+                  },
+                  {
+                    "yonalish_nomi": "Jurnalistika",
+                    "shifr": "60320100",
+                    "fanlar": "Kasbiy (ijodiy) imtihon / Chet tili (2.1)",
+                    "grand_ball": 140.9,
+                    "kontrakt_ball": 89.9
+                  },
+                  {
+                    "yonalish_nomi": "Kimyo",
+                    "shifr": "60530100",
+                    "fanlar": "Kimyo (3.1) / Matematika (2.1)",
+                    "grand_ball": 81.9,
+                    "kontrakt_ball": 69.5
+                  },
+                  {
+                    "yonalish_nomi": "Matematika",
+                    "shifr": "60540100",
+                    "fanlar": "Matematika (3.1) / Fizika (2.1)",
+                    "grand_ball": 129.1,
+                    "kontrakt_ball": 104.0
+                  },
+                  {
+                    "yonalish_nomi": "Menejment",
+                    "shifr": "60410800",
+                    "fanlar": "Matematika (3.1) / Chet tili (2.1)",
+                    "grand_ball": 148.1,
+                    "kontrakt_ball": 110.5
+                  },
+                  {
+                    "yonalish_nomi": "Moliya va moliyaviy texnologiyalar",
+                    "shifr": "60410500",
+                    "fanlar": "Matematika (3.1) / Chet tili (2.1)",
+                    "grand_ball": 158.5,
+                    "kontrakt_ball": 96.4
+                  },
+                  {
+                    "yonalish_nomi": "Pediatriya ishi",
+                    "shifr": "60910300",
+                    "fanlar": "Biologiya (3.1) / Kimyo (2.1)",
+                    "grand_ball": 150.1,
+                    "kontrakt_ball": 143.5
+                  },
+                  {
+                    "yonalish_nomi": "Pediatriya ishi-Namangan shahri",
+                    "shifr": "6091030038",
+                    "fanlar": "Biologiya (3.1) / Kimyo (2.1)",
+                    "grand_ball": 145.8,
+                    "kontrakt_ball": null
+                  },
+                  {
+                    "yonalish_nomi": "Psixologiya",
+                    "shifr": "60310300",
+                    "fanlar": "Biologiya (3.1) / Ona tili va adabiyoti (2.1)",
+                    "grand_ball": 128.3,
+                    "kontrakt_ball": 98.0
+                  },
+                  {
+                    "yonalish_nomi": "Sport faoliyati: voleybol",
+                    "shifr": "61010245",
+                    "fanlar": "Kasbiy (ijodiy) imtihon / Kasbiy (ijodiy) imtihon",
+                    "grand_ball": 151.6,
+                    "kontrakt_ball": 92.4
+                  },
+                  {
+                    "yonalish_nomi": "Tarix",
+                    "shifr": "60220300",
+                    "fanlar": "Tarix (3.1) / Geografiya (2.1)",
+                    "grand_ball": 152.9,
+                    "kontrakt_ball": 106.0
+                  },
+                  {
+                    "yonalish_nomi": "Yurisprudensiya",
+                    "shifr": "60420100",
+                    "fanlar": "Huquqshunoslik fanlari (3.1) / Chet tili (2.1)",
+                    "grand_ball": 180.2,
+                    "kontrakt_ball": 156.1
+                  }
+                ]
+              }
+        ],
+        "manba": "2024-yil uchun aniq kirish ballari Bilim va malakalarni baholash agentligining rasmiy sayti (uzbmb.uz) yoki universitetning rasmiy qabul e'lonlarida keltiriladi.",
+        "oldingiYillarUchunManba": "O'tgan yillardagi kirish ballarini ham Bilim va malakalarni baholash agentligi (uzbmb.uz) saytidan topish mumkin."
+      },
+      "yo'nalishlarKesimidaImtihonFanlari": "Har bir yo'nalish uchun alohida fanlar majmuasi belgilanadi. Odatda 2 ta mutaxassislik fani va 3 ta majburiy fan (Ona tili, Matematika, O'zbekiston tarixi) bo'ladi. Aniq ro'yxatni qabul e'lonlaridan topish mumkin.",
+      "texnikumdanQabulJarayoni": {
+        "boshlanishiVaTartibi": "O'zbekiston Respublikasi qonunchiligiga muvofiq, texnikumni muvaffaqiyatli tamomlaganlar o'z sohasiga mos bakalavriat yo'nalishlariga suhbat asosida yoki imtihonlar bilan o'qishga kirishlari mumkin. Tartib va muddatlar har yili belgilanadi. Batafsil ma'lumotni universitet qabul komissiyasidan oling."
+      },
+      "boshqaOTMdanOqishniKochirishTartibi": "O'qishni ko'chirish tartibi O'zbekiston Respublikasi Vazirlar Mahkamasining tegishli qarori bilan tartibga solinadi. Odatda yozgi va qishki ta'til davrida amalga oshiriladi. Muvofiq kurs va yo'nalishga bo'sh o'rinlar mavjud bo'lganda, belgilangan hujjatlar asosida ko'rib chiqiladi. Batafsil ma'lumotni universitetning o'quv-uslubiy bo'limidan yoki qabul komissiyasidan olish mumkin."
+    },
+
+    "maxsusMalumotlar": {
+      "poraxorlikBilanAyblanganOqituvchilar": {
+        "soniVaMalumot": "Bunday ma'lumotlar ochiq manbalarda e'lon qilinmaydi va maxfiy hisoblanadi. Huquq-tartibot idoralari tomonidan tekshirilishi mumkin."
+      }
+    }
+  }
+    
