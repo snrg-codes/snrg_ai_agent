@@ -1,10 +1,12 @@
 import telebot 
 import os
-from dotenv import load_dotenv
+# from dotenv import load_dotenv            #
+from config import TELEGRAM_BOT_TOKEN       # 
 from functions import generate
-load_dotenv()
+# load_dotenv()                             #
 
-bot = telebot.TeleBot(os.getenv("TELEGRAM_BOT_TOKEN"))
+# bot = telebot.TeleBot(os.getenv("TELEGRAM_BOT_TOKEN"))
+bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)   # 
 
 @bot.message_handler(commands=['start'])
 def send_welcome(message):

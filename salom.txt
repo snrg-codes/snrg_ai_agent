@@ -1,0 +1,24 @@
+Namangan davlat universiteti haqida quyidagi ma'lumotlarni top va ular asosida AI API uchun json fayli yarat - 
+1. Universitet to'liq nomi
+2. Kontrakt to'lovi haqida ma'lumot,
+3. yo'nalishlari
+4. fakultetlari va kafedralari
+5. o'qish muddati
+6. o'quvchilar soni
+7. 2024 yil abiturient qabul soni (  to'lov shartnoma, davlat granti )
+8. yo'nalishlar kesimida kirish ballari (to'lov shartnoma, davlat granti)
+9. joylashuv manzili, kordinatasi
+10. universitet qo'shimcha imtiyozlari
+11. qabul jarayoni muddati
+12. texnikumdan qabul jarayoni boshlanishi va o'tish tartibi
+13. boshqa oliy ta'lim muassasalaridan farqi
+14. universitet haqida qisqacha ma'lumot
+15. yo'nalishlar kesimida imtihon fanlari
+16. o'qituvchilar kontingenti (fan doktorlari, professorlar, kandidatlar, Phd lar, akademiklar soni, va ularning nisbati)
+17. boshqa OTM dan o'qishni ko'chirish tartibi
+18. yo'nalishlar kesimida kim qayerda ishlashi mumkinligi ro'yhati
+19. rasmiy sahifalar, bog'lanish uchun telefon raqami va elektron pochta,
+20. Telegram sahifasi
+21. Onlayn yoki offlayn o'quv yo'nalishlari
+22. O'quv bosqichlari ( magistratura, doktorantura, baklavriat)
+23. poraxo'rlik bilan ayblangan o'qituvchilar va ularning soni

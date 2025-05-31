@@ -1,0 +1,35 @@
+{
+    "mahsulotNomi": "Turkiy Ponchiklar (Donuts)",
+    "ta'rif": {
+      "qisqacha": "Duxovkada pishirilgan, mayin biskvit ta'mli, halol shokoladli donuts.",
+      "batafsil": "Turkiy donuts - bu yog'da qovurilmaydigan, sodasiz, drojasiz tayyorlanadigan, yumshoq biskvitli ponchiklar. Sifatli halol shokolad bilan qoplangan. Sovutgichda qotirilgan shokoladni uy haroratida ozroq ushlab, keyin iste'mol qilish tavsiya etiladi."
+    },
+    "xususiyatlari": {
+      "pishirishUsuli": "Duxovkada pishirilgan",
+      "qovurish": false,
+      "xamirTuri": "Biskvit",
+      "sodaDroja": false,
+      "shokoladTuri": "Halol, sifatli",
+      "sovutish": {
+        "qotirish": "Haladilnikda",
+        "istemolQilish": "Uy haroratida ozroq ushlab, keyin iste'mol qilish tavsiya etiladi"
+      }
+    },
+    "qo'shimchaMalumot": {
+      "ta'mi": "Mayin va mazali",
+      "hamirTarkibi": "Bulochka xamiri emas",
+      "halol": true,
+      "foydalanuvchilargaMaslahat": "Ponchiklarning haqiqiy ta'mini his qilish uchun sovutgichdan olgandan so'ng, biroz yumshatib keyin iste'mol qiling."
+    },
+    "vizual": {
+      "rasm": "🍩",
+      "ikonkalar": ["✅", "❌", "❄️", "🫶🏻"]
+    },
+    "qadoqlash": {
+      "qadoqTuri": "Ma'lumot berilmagan",
+      "miqdori": "Ma'lumot berilmagan"
+    },
+    "qo'shimcha": {
+      "manba": "Foydalanuvchi tomonidan taqdim etilgan ma'lumotlar"
+    }
+  }
