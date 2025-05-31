@@ -4,3 +4,7 @@ venv/
 .env
 config.py
 ./config.py
+
+./__pycahce__/
+__pycahce__/
+
