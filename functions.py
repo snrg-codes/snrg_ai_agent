@@ -36,12 +36,12 @@ class Generate:
                 ],
             ),
         ]
-        javob =  self.client.models.generate_content(
+        self.javob =  self.client.models.generate_content(
                 model=self.model,
                 contents=self.contents,
                 config=self.generate_content_config,
         )
-        return javob.text
+        return self.javob.text
 
 if __name__ == "__main__":  
 
